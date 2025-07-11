@@ -5,5 +5,5 @@ export type Dev = {
     github_link: string,
     site_link: string,
     description: string, 
-    tags: String[]
+    tags: string[]
 }
